@@ -259,3 +259,5 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
+QLCT/wwwroot/dist/application/admin.js.map
+QLCT/wwwroot/dist/application/admin.js
